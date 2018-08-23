@@ -8,7 +8,9 @@ tags: ['salad', 'healthy']
 header: { overlay_image: /assets/images/unsplash-image-34.jpg, og_image: /assets/images/page-header-og-image.png, caption: 'Photo credit: [**Unsplash**](https://unsplash.com)' }
 ---
 
-A healthy and filling green salad.
+A healthy and filling green salad. A salad is a dish consisting of a mixture of small pieces of food, usually vegetables.[1][2] However, different varieties of salad may contain virtually any type of ready-to-eat food. Salads are typically served at room temperature or chilled, with notable exceptions such as south German potato salad which is served warm.
+
+Garden salads use a base of leafy greens such as lettuce, arugula/rocket, kale or spinach; they are common enough that the word salad alone often refers specifically to garden salads. Other types include bean salad, tuna salad, fattoush, Greek salad, and Japanese sōmen salad (a noodle-based salad). The sauce used to flavor a salad is commonly called a salad dressing; most salad dressings are based on either a mixture of oil and vinegar or a fermented milk product like kefir. `courtesy wikipedia`
 
 ## Ingredients:
 
