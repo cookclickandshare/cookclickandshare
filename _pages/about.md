@@ -5,8 +5,4 @@ title: "About Me"
 header: { overlay_image: /assets/images/rotterdam2.jpg }
 ---
 
-My name is **`ahmed zbyr`** and I am full time Biker and a part time Engineer ;). 
-I am not all that good about talking about my self but here are few things.
-
-I love bikes and EVs. EVs on 2 wheels even more [`Lightning LS-218`](http://lightningmotorcycle.com/product/specifications/). Apart from bikes I love automation.
-I go by this statement most of the time [`"if a task takes more than 90sec then there should be a script for it ;)"`](https://github.com/NARKOZ/hacker-scripts).
+Assalamulaikum :) How do i begin....well firstly iam an introvert so you wont find detail happenings about my recipes ... but of course the recipe is in place :) Iam a food lover, love eating , cooking and serving but my better half is a non foodie who only likes roti, dal and spicy kababs.. these are his "only" favorite's.. He is my best and strict :P critic for the food i cook, he will rate my dish from 1 to 5 ( 5 being the highest)which helps me get better and improve ... So guys this is Heena Kausar in short for u. Hope you like my recipes. Happy Cooking !!! :) :) :) Do leave your comments about the recipes you like. :) If you are on Facebook do check out my facebook page called "Cook Click and Share" :)
