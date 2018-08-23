@@ -5,9 +5,9 @@ title: "About Me"
 header: { overlay_image: /assets/images/rotterdam2.jpg }
 ---
 
-### Assalamulaikum :) 
+### Hello Everyone 
 
-How do i begin....
+Peace and blessing be upon you :) How do I begin....
 
 Well firstly iam an introvert so you wont find detail happenings about my recipes ... but of course the recipe is in place :). 
 
@@ -20,8 +20,3 @@ So guys this is Heena Kausar in short for u. Hope you like my recipes. Happy Coo
 Do leave your comments about the recipes you like. :) 
 
 If you are on Facebook do check out my facebook page called [Cook Click and Share](https://www.facebook.com/cookclickandshare/) :)
-
-
-### Few of the Blogs I follow and higly recommend.
-
-- https://www.cubesnjuliennes.com/
