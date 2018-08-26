@@ -81,7 +81,7 @@ The next steps from now are very important for the biryani, you should be alert 
 - After mixing the rice and akhni, pour half the akhni oil (which you kept aside) around the rice and spread the colored rice on top , do not mix the rice after adding oil and colored rice.
 - Cover it well with silver foil and keep it on low flame for dum for 15 mins, your super delicious mutton biryani is ready for your tastebuds. :) 
 
-## Important points to remember while cooking biryani:
+## Important points to remember while `cooking biryani`.
 
 - Akhni is nothing but the masala that we cooked with onions, tomatoes, mutton....etc
 - The process of covering the vessel air tight and keeping it on low flame is called DUM.
