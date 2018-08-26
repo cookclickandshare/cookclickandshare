@@ -5,7 +5,7 @@ toc_icon: "cog"
 title: Chilli Chicken
 category: ['CHICKEN']
 tags: ['chicken', 'spicy', 'chilli']
-header: { overlay_image: /assets/images/unsplash-image-37.jpg, og_image: 'http://2.bp.blogspot.com/-2G3WbiFK9kU/UcG-s75igKI/AAAAAAAADE8/N7htU4nRk7w/s1600/2013-06-11+21.02.57.jpg', caption: 'Photo credit: [**Unsplash**](https://unsplash.com)' }
+header: { overlay_image: /assets/images/unsplash-image-37.jpg, overlay_filter: 0.5, og_image: 'http://2.bp.blogspot.com/-2G3WbiFK9kU/UcG-s75igKI/AAAAAAAADE8/N7htU4nRk7w/s1600/2013-06-11+21.02.57.jpg', caption: 'Photo credit: [**Unsplash**](https://unsplash.com)' }
 ---
 
 Chilli chicken is a popular Indo-Chinese dish of chicken. In India, this may include a variety of dry chicken preparations.
