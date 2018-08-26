@@ -5,7 +5,7 @@ toc_icon: "cog"
 title: Mutton Biryani
 category: ['BIRYANI', 'MUTTON']
 tags: ['rice', 'biryani', 'mutton']
-header: { overlay_image: /assets/images/unsplash-image-35.jpg, og_image: 'http://4.bp.blogspot.com/-lguZEsb6A8Q/USEEup8FwiI/AAAAAAAAC7w/Y0tepl4pJjE/s1600/DSC_1283.jpg', caption: 'Photo credit: [**Unsplash**](https://unsplash.com)' }
+header: { overlay_image: /assets/images/unsplash-image-35.jpg, overlay_filter: 0.5, og_image: 'http://4.bp.blogspot.com/-lguZEsb6A8Q/USEEup8FwiI/AAAAAAAAC7w/Y0tepl4pJjE/s1600/DSC_1283.jpg', caption: 'Photo credit: [**Unsplash**](https://unsplash.com)' }
 ---
 
 Biryani (pronounced [bɪr.jaːniː]), also known as biriyani, biriani, birani or briyani, "spicy rice" is a mixed rice dish with its origins among the Muslims of the Indian subcontinent. It is popular throughout the Indian subcontinent and among the diaspora from the region. It is made with spices, rice and meat (chicken, mutton, beef, prawn, or fish) and vegetables. Sometimes egg is also added. `[intro courtesy wikipedia]`
