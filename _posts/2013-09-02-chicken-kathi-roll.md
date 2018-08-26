@@ -5,7 +5,7 @@ toc_icon: "cog"
 title: Chicken Kathi Roll
 category: ['CHICKEN']
 tags: ['chicken', 'roll']
-header: { overlay_image: /assets/images/unsplash-image-38.jpg, og_image: 'http://1.bp.blogspot.com/-V6W0erXER7k/UiSuYDGB14I/AAAAAAAADLQ/g-uXSV3BXBk/s1600/IMAG0287.jpg', caption: 'Photo credit: [**Unsplash**](https://unsplash.com)' }
+header: { overlay_image: /assets/images/unsplash-image-38.jpg, overlay_filter: 0.5, og_image: 'http://1.bp.blogspot.com/-V6W0erXER7k/UiSuYDGB14I/AAAAAAAADLQ/g-uXSV3BXBk/s1600/IMAG0287.jpg', caption: 'Photo credit: [**Unsplash**](https://unsplash.com)' }
 ---
 
 A `kathi roll` (sometimes spelt kati roll; Bengali: কাঠি রোল) is a street-food dish originating from Kolkata, India. In its original form, it is a skewer-roasted kebab wrapped in a paratha bread, although over the years many variants have evolved all of which now go under the generic name of kathi roll. 
