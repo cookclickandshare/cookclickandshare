@@ -52,7 +52,7 @@ We can be broken this down in 3 parts as below.
 2. Cooking Rice and 
 3. Most important part is mixing.
 
-## For cooking Akhni
+## Cooking Akhni.
 
 - Heat one big glass full of oil in a big cooker or a vessel, add whole cardamom, cinnamon, cloves 1 -2 each, one bay leaf, green chilies, onions and allow the onions to fry for 10 - 15 mins until golden brown, now add chopped pudina (small bunch) and mix well.
 - Add ginger garlic paste, chopped tomatoes, red chili pwdr, garam masala pwdr, dhanya pwdr, salt and give it a good mix, cover the vessel, lower the flame and let it cook for 10 - 15 mins.
@@ -62,7 +62,7 @@ We can be broken this down in 3 parts as below.
 - Once this is done take out the excess oil from the akhni and keep aside as you will need it later.
 
 
-## For cooking rice
+## Cooking Rice.
 
 - Wash and soak rice in water and keep it aside, if it is basmati-rice wash and soak it 1 or 2 hrs before cooking.
 - Heat 4 - 5 big jugs of water in a big vessel, add whole cardamom, cinnamon, cloves 1 -2 each, one bay leaf, carrot, peas, turmeric pwdr, salt, few pudina leaves, little chopped coriander, juice of one lemon and bring the water to boil and then add the rice.
@@ -73,7 +73,7 @@ While the rice is cooking keep a sieve ready in a clean kitchen wash basin and a
 The next steps from now are very important for the biryani, you should be alert and quick or the biryani will lose its taste, you might also need someone's help to drain the hot water from the rice.
 
 
-## Mixing
+## Mixing Akhni and Rice.
 
 - Once the rice is cooked as above, drain the water completely in a sieve.
 - Quickly take aside 3 - 4 tbsp of plain rice and add it to the food color solution and keep aside.
