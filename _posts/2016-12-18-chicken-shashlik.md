@@ -5,7 +5,7 @@ toc_icon: "cog"
 title: Chicken Shashlik
 category: ['CHICKEN']
 tags: ['chicken', 'spicy', 'shashlik']
-header: { overlay_image: /assets/images/unsplash-image-40.jpg, og_image: 'https://2.bp.blogspot.com/-4AZhP5Tj9o0/WFaNT45jBWI/AAAAAAAAb5g/ipDyyCZL5e8KotnOVVMcpLL_CoOInxBBgCLcB/s1600/IMG-20161217-WA0013.jpg', caption: 'Photo credit: [**Unsplash**](https://unsplash.com)' }
+header: { overlay_image: /assets/images/unsplash-image-40.jpg, overlay_filter: 0.5, og_image: 'https://2.bp.blogspot.com/-4AZhP5Tj9o0/WFaNT45jBWI/AAAAAAAAb5g/ipDyyCZL5e8KotnOVVMcpLL_CoOInxBBgCLcB/s1600/IMG-20161217-WA0013.jpg', caption: 'Photo credit: [**Unsplash**](https://unsplash.com)' }
 ---
 
 Shashlik or shashlyk (Persian: شیشلیک‎ – Šišlik, Armenian: խորոված khorovats, Azerbaijani: şişlik or tikə kabab, Georgian: მწვადი mtsvadi, Russian: шашлы́к šašlýk, Ukrainian: шашли́к šašlýk, Polish: szaszłyk, Latvian: šašliks, Lithuanian: šašlykas, Turkish: şaşlık, Hebrew: שישליק‎ šíšliq, Urdu: شاشلِک śāślik, Bengali: শাশলিক śāślik), is a name given to a dish of skewered and grilled cubes of meat popular in Eastern Europe, eastern Central Europe, the Baltics, Caucasus, Central Asia and some parts of the Middle East, including Iran, Israel, and Turkey.
