@@ -50,6 +50,28 @@ In a wok, heat oil and fry the marinated chicken until golden brown on medium fl
 
 ## Mixing Phase 1/2 all Together.
 
-In a wok add oil, add whole black pepper, curry leaves, dry red chili, finely chopped green chilies, cumin seeds, capsicum, cabbage,spring onions, chopped ginger and garlic, fry for 2 mins, now add soya sauce, vinegar, ajinomoto, salt, half cup of water and cook this for 2 mins and now add the fried chicken and allow it to cook on low flame until the water dries up.
-In the mean while mix 3 tsp of cornflour with half cup of water and add it in the above chicken, mix well cover it up and cook on low flame for 5 mins.
-MoMs style chilli chicken is ready to relish... :)
+- In a wok add
+  - oil, 
+  - whole black pepper, 
+  - curry leaves, 
+  - dry red chili, 
+  - finely chopped green chilies, 
+  - cumin seeds, 
+  - capsicum, 
+  - cabbage,
+  - spring onions, 
+  - chopped ginger and 
+  - garlic
+- fry for 2 mins. 
+- now add 
+  - soya sauce, 
+  - vinegar, 
+  - ajinomoto, 
+  - salt, 
+  - half cup of water
+- cook this for 2 mins and now add the fried chicken (`from phase 1`) and allow it to cook on low flame until the water dries up.
+- In the meanwhile 
+  - mix 3 tsp of cornflour with half cup of water and add it in the above chicken.
+  - mix well cover it up and cook on low flame for 5 mins.
+
+MOM's style chilli chicken is ready to relish... :) Enjoy!!!.
