@@ -5,7 +5,7 @@ toc_icon: "cog"
 title: Green Salad
 category: ['SALAD']
 tags: ['salad', 'healthy']
-header: { overlay_image: /assets/images/unsplash-image-34.jpg, overlay_filter: 0.5, og_image: 'https://3.bp.blogspot.com/-eDWAkEHH4rk/W2SimF3Q93I/AAAAAAAAnmQ/SkVChnB6g-UQN1SA_EdBMMIPmKmCg3yVgCLcBGAs/s1600/20180730_140626.jpg', caption: 'Photo credit: [**Unsplash**](https://unsplash.com)' }
+header: { overlay_image: /assets/images/unsplash-image-34.jpg, overlay_filter: 0.5, teaser: 'https://3.bp.blogspot.com/-eDWAkEHH4rk/W2SimF3Q93I/AAAAAAAAnmQ/SkVChnB6g-UQN1SA_EdBMMIPmKmCg3yVgCLcBGAs/s1600/20180730_140626.jpg', og_image: 'https://3.bp.blogspot.com/-eDWAkEHH4rk/W2SimF3Q93I/AAAAAAAAnmQ/SkVChnB6g-UQN1SA_EdBMMIPmKmCg3yVgCLcBGAs/s1600/20180730_140626.jpg', caption: 'Photo credit: [**Unsplash**](https://unsplash.com)' }
 ---
 
 A healthy and filling green salad. A salad is a dish consisting of a mixture of small pieces of food, usually vegetables.[1][2] However, different varieties of salad may contain virtually any type of ready-to-eat food. Salads are typically served at room temperature or chilled, with notable exceptions such as south German potato salad which is served warm.
