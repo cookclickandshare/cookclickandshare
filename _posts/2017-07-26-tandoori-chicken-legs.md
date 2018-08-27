@@ -5,7 +5,7 @@ toc_icon: "cog"
 title: Tandoori Chicken Legs
 category: ['CHICKEN']
 tags: ['chicken', 'spicy', 'chilli']
-header: { overlay_image: /assets/images/unsplash-image-39.jpg, overlay_filter: 0.5, og_image: 'https://3.bp.blogspot.com/-cV1KJvlFOOM/WXiq1CZTXsI/AAAAAAAAe48/kZ03unP8Ewk2TVMX4pWL7dz1ZmG7ag2pACLcBGAs/s1600/20170606_191427.jpg', caption: 'Photo credit: [**Unsplash**](https://unsplash.com)' }
+header: { overlay_image: /assets/images/unsplash-image-39.jpg, overlay_filter: 0.5, teaser: 'https://3.bp.blogspot.com/-cV1KJvlFOOM/WXiq1CZTXsI/AAAAAAAAe48/kZ03unP8Ewk2TVMX4pWL7dz1ZmG7ag2pACLcBGAs/s1600/20170606_191427.jpg', og_image: 'https://3.bp.blogspot.com/-cV1KJvlFOOM/WXiq1CZTXsI/AAAAAAAAe48/kZ03unP8Ewk2TVMX4pWL7dz1ZmG7ag2pACLcBGAs/s1600/20170606_191427.jpg', caption: 'Photo credit: [**Unsplash**](https://unsplash.com)' }
 ---
 
 Tandoori chicken is chicken dish prepared by roasting chicken marinated in yoghurt and spices in a tandoor, a cylindrical clay oven. It is a popular dish originating from the Indian subcontinent, and has become sought-after in other parts of the world.
