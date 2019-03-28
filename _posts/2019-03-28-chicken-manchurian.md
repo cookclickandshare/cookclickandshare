@@ -10,7 +10,7 @@ header: { overlay_image: /assets/images/unsplash-image-36.jpg, overlay_filter: 0
 
 Chicken Manchurian Indo-Chinese reciepe. 
 
-![mutton biryani](http://4.bp.blogspot.com/-lguZEsb6A8Q/USEEup8FwiI/AAAAAAAAC7w/Y0tepl4pJjE/s1600/DSC_1283.jpg)
+![chicken-manchurian](/assets/images/chicken-manchurian.jpg)
 
 ### Ingredients for frying
 
