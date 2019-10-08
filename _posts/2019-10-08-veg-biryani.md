@@ -53,7 +53,7 @@ This biryani is a perfect blend of spices and vegetables mixed with aromatic ric
  8. Layering - keep a vessel on low flame and add 1 tsp oil/ghee and  add one big spoon of veg gravy, next spread half quantity of rice, spread the full gravy on it , sprinkle half of  fried onions,chopped mint, 1 tbsp kewra water , add the remaining half of rice on top and spread it, sprinkle the fried onions, some more mint, kewra water and put the yellow food color solution in circles and cover the vessel first with aluminum foil and then tightly seal it with the lid and cook this on low flame for 10-15 minutes.
 
 
-### Note:
+### Note
 
 You can also add cauliflower to this, for which i separately saute cauliflower florets in little oil, salt and turmeric powder and roast them until they are slightly golden in color and them directly while layering the rice. This way the cauliflower doesn't get too mushy.
 
